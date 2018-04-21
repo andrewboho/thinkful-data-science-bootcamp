@@ -1,6 +1,6 @@
 # Drill - Exercises in Bayes' Rule
 
-## Decision Tree Branchs
+## Decision Tree Branches
 
 * branch_1: thripshaw and positive | 0.005 * 0.98 = 0.0049
 * branch_2: thripshaw and not postive | 0.005 * 0.02 = 0.0001
