@@ -1,7 +1,7 @@
 -- ds-bootcamp_1.2.5_challenge
 -- Tasmania, Tasmania, Australia
 
--- What's the most expensive listing? What else can you tell me about the listing?
+-- What's the most expensive listing?
 SELECT *
 FROM
     listings
